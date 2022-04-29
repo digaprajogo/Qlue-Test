@@ -1,0 +1,29 @@
+{
+  "h": [
+    "username",
+    "hair_color",
+    "height"
+  ],
+  "d": [
+    [
+      "ali",
+      "brown",
+      1.2
+    ],
+    [
+      "marc",
+      "blue",
+      1.4
+    ],
+    [
+      "joe",
+      null,
+      1.7
+    ],
+    [
+      "zehua",
+      "b lack",
+      1.8
+    ]
+  ]
+}

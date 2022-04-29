@@ -1,0 +1,3 @@
+Concurrency refers to the execution of numerous tasks at the same time, although not necessarily simultaneously. Its the ability to handle many tasks at the same time. Parallelism is the practice of performing many tasks at the same time.
+
+The illustration @ConcurrencyVsParallel.jpg explains everything. 
